@@ -36,6 +36,18 @@ const theoryHTML = `
                     <li>Test final cu 15 întrebări mixte</li>
                 </ul>
             </div>
+
+            <div class="theory-box" style="background: #ecfdf5; border-color: #10b981;">
+                <h4>🔤 Tipologia vocabularului B2 — Sg/Pl orientativ</h4>
+                <p>La nivelul B2, substantivele din tabelele de mai jos sunt majoritar <strong>concepte digitale</strong> sau <strong>fenomene sociale</strong>. Iată tipologia:</p>
+                <ul style="margin-left: 18px;">
+                    <li><strong>Concepte sg tantum</strong>: <em>das Internet, die Privatsphäre, die Anonymität, die Vernetzung, die Digitalisierung</em></li>
+                    <li><strong>Substantive concrete cu plural</strong>: <em>der Beitrag · die Beiträge</em> · <em>der Kommentar · die Kommentare</em> · <em>das Profil · die Profile</em> · <em>der Algorithmus · die Algorithmen</em> · <em>der Follower · die Follower</em> (pl identic)</li>
+                    <li><strong>Substantive deja la plural</strong>: <em>die sozialen Medien, die Fake News</em></li>
+                    <li><strong>Colocații verbale</strong>: „einen Beitrag posten", „in der Bubble leben" — formule fixe</li>
+                </ul>
+                <p style="margin-top: 8px;">Pentru substantivele concrete noi, verifică pluralul pe <a href="https://de.pons.com/deklination/deutsch" target="_blank" style="color: #047857;">PONS</a> — la examenul B2, precizia gen+plural face diferența.</p>
+            </div>
         </div>
     </div>
 
